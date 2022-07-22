@@ -1,13 +1,15 @@
 
 import turtle
 
-turtle.Screen().bgcolor("black")
+turtle.Screen().bgcolor("white")
 
 t = turtle.Pen()
 
 t.pencolor("red")
 t.pensize(5)
+t.fillcolor("red")
 
+t.begin_fill()
 t.seth(45)
 t.forward(200)
 t.circle(90,170)
@@ -31,7 +33,8 @@ t.forward(40)
 
 t.seth(135)
 t.circle(90,180)
-t.forward(200)
+t.forward(201)
+t.end_fill()
 
 t.hideturtle()
 
