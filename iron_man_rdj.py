@@ -5,7 +5,7 @@ import turtle
 s = turtle.Screen()
 s.bgcolor("white")
 
-obj = lib.tom_holland()
+obj = lib.rdj()
 obj.draw()
 
 turtle.done()
