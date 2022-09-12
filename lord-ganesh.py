@@ -1,5 +1,4 @@
 
-
 # AAACoder Art Lord Ganesha
 import turtle as tu
 
@@ -271,4 +270,4 @@ t.end_fill()
 
 t.hideturtle()
 
-tu.done(
+tu.done()
