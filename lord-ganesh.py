@@ -1,10 +1,13 @@
 
+
 # AAACoder Art Lord Ganesha
 import turtle as tu
 
 tu.Screen().bgcolor("white")
 
 t = tu.Turtle()
+t.pencolor("#de4e4b")
+t.fillcolor("#de4e4b")
 
 def go(x,y):
     t.penup()
@@ -268,4 +271,4 @@ t.end_fill()
 
 t.hideturtle()
 
-tu.done()
+tu.done(
