@@ -1,3 +1,3 @@
-# Python Turtle 🐢🐢 Art
+# Python 🐢 Art
 This is python turtle art archive
-In this archive there are many jhakkas(charming) arts
+of design with the help of turtle module of python 
